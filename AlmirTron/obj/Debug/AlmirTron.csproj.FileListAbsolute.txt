@@ -1,0 +1,15 @@
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\bin\Debug\AlmirTron.exe.config
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\bin\Debug\AlmirTron.exe
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\bin\Debug\AlmirTron.pdb
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\obj\Debug\AlmirTron.frmAlmirTron.resources
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\obj\Debug\AlmirTron.Properties.Resources.resources
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\obj\Debug\AlmirTron.csproj.GenerateResource.cache
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\obj\Debug\AlmirTron.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\obj\Debug\AlmirTron.exe
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\obj\Debug\AlmirTron.pdb
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\bin\Debug\AlmirTron.exe.manifest
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\bin\Debug\AlmirTron.application
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\obj\Debug\AlmirTron.TrustInfo.xml
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\obj\Debug\AlmirTron.exe.manifest
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\obj\Debug\AlmirTron.application
+C:\Users\rafael\Documents\[UHC]\CS_[AlmirTron]\AlmirTron\AlmirTron\obj\Debug\AlmirTron.csprojAssemblyReference.cache
